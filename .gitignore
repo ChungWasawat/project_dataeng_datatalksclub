@@ -1,3 +1,3 @@
 terraform/
-
+terraform/variables.tf
 test_dag.py
