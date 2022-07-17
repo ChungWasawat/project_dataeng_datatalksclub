@@ -10,3 +10,4 @@
 ### Instruction
 1. install google sdk 
 2. install terraform and start it 
+3. 
